@@ -11,6 +11,7 @@
 	<groupId>com.novatechzone.spring</groupId>
 	<artifactId>LongLifeAyurveda</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>Long Life Ayurveda</name>
 	<description>Long Life Ayurveda</description>
 	<properties>
