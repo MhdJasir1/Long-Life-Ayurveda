@@ -27,7 +27,6 @@ com\novatechzone\spring\longlifeayurveda\domain\cart\CartResource.class
 com\novatechzone\spring\longlifeayurveda\exception\ExceptionHandler.class
 com\novatechzone\spring\longlifeayurveda\domain\comment\CommentService.class
 com\novatechzone\spring\longlifeayurveda\domain\security\AuthResource.class
-com\novatechzone\spring\longlifeayurveda\entity\BaseEntity.class
 com\novatechzone\spring\longlifeayurveda\domain\wishlist\Wishlist.class
 com\novatechzone\spring\longlifeayurveda\config\RestExceptionHandler.class
 com\novatechzone\spring\longlifeayurveda\domain\product\ProductService.class
