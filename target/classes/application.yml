@@ -1,0 +1,81 @@
+
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mysql://db4free.net:3306/jasir_customer
+    username: jasir_customer
+    password: jasir_customer
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  threads:
+    virtual:
+      enabled: true
+
+
+
+#server:
+#  port: 8080
+#spring:
+#  datasource:
+#    url: postgres://long_life_ayurveda_user:k38oLbfMDlWNq0rUs9OdMR4hE8nNuCxF@dpg-cmq5vio21fec739k6ik0-a.oregon-postgres.render.com/long_life_ayurveda
+#    username: long_life_ayurveda_user
+#    password: k38oLbfMDlWNq0rUs9OdMR4hE8nNuCxF
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+#  threads:
+#    virtual:
+#      enabled: true
+
+
+#server:
+#  port: 8080
+#spring:
+#  datasource:
+#    url: jdbc:mysql://sql304.infinityfree.com:3306/if0_35864857_long_life_ayurveda
+#    username: if0_35864857
+#    password: Jasir1245241
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+#  threads:
+#    virtual:
+#      enabled: true
+
+
+#server:
+#  port: 8080
+#spring:
+#  datasource:
+#    url: jdbc:postgresql://localhost:5432/postgres
+#    username: postgres
+#    password: Jasir@1234
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+#  threads:
+#    virtual:
+#      enabled: true
+
+
+#server:
+#  port: 8080
+#spring:
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/long_life_ayurveda
+#    username: root
+#    password: Jasir@1234
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+#  threads:
+#    virtual:
+#      enabled: true
