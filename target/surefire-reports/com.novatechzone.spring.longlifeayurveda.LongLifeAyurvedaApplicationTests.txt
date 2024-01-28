@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.novatechzone.spring.longlifeayurveda.LongLifeAyurvedaApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 43.04 s -- in com.novatechzone.spring.longlifeayurveda.LongLifeAyurvedaApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 73.64 s -- in com.novatechzone.spring.longlifeayurveda.LongLifeAyurvedaApplicationTests
